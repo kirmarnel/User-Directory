@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+#intro {
+    text-align: center;
+}
+
+#header {
+    background-color: rgb(194, 154, 231);
+    height: 100px;
+    padding: 10px;
+}
+
+.input {
+    width: 500px;
+}

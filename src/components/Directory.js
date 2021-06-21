@@ -1,9 +1,14 @@
 import React from "react";
+import Header from "./Header"
+import Search from "./Search"
+import Results from "./Results"
 
 function Directory() {
     return (
         <>
-        <p>Hello World</p>
+        <Header /> 
+        <Search />
+        <Results />
         </>
     )
 };
