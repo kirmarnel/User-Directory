@@ -1,9 +1,16 @@
 import React from "react";
+import Header from "./components/Header"
 import Directory from "./components/Directory"
 
 
 function App() {
-  return <Directory />;
+  return(
+    <>
+    <Header/>
+    <Directory/>
+    </>
+  )
+  
 }
 
 export default App;

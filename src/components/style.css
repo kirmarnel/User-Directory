@@ -18,6 +18,9 @@ h1 {
     padding: 10px;
 }
 
-.input {
-    width: 500px;
+span {
+    cursor: pointer;
 }
+
+
+
