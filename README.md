@@ -6,6 +6,8 @@ For this project I have created a user directory. It pulls in information from t
 ## Demo
 ![Screenshot1](public/assets/Demo1.png)
 
+https://kirmarnel.github.io/User-Directory/
+
 ## Table of Contents 
     
 * [Installation](#installation)
